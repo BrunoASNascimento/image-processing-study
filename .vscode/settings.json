@@ -1,3 +1,4 @@
 {
-    "deepcode.uploadApproved": true
+    "deepcode.uploadApproved": true,
+    "python.pythonPath": "C:\\Users\\bruno\\anaconda3\\envs\\study_39\\python.exe"
 }
