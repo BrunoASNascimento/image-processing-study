@@ -33,3 +33,6 @@ def read_webcam():
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
     return
+
+
+read_webcam()
